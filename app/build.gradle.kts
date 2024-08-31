@@ -79,7 +79,7 @@ android {
             path = file("src/main/cpp/CMakeLists.txt")
         }
     }
-    namespace = "com.geode.launcher211"
+    namespace = "com.geode.launcher"
     ndkVersion = "26.3.11579264"
 }
 
